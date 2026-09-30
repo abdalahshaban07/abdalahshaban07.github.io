@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.abdalahshaban07.drivelog",
+        "sha256_cert_fingerprints": ["50:A4:96:19:BC:15:7F:C6:53:71:7A:88:A8:63:59:EF:15:76:B7:AB:15:81:91:77:89:15:6C:40:AC:6E:B4:A3"]
+      }
+    }]
