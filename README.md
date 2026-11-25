@@ -2,7 +2,7 @@
 
 Root GitHub Pages site. It exists for two reasons:
 
-- `/` redirects to [DriveLog](https://abdalahshaban07.github.io/DriveLog/).
+- `/` is the personal portfolio (static build). DriveLog stays at [/DriveLog/](https://abdalahshaban07.github.io/DriveLog/).
 - `/.well-known/assetlinks.json` proves the DriveLog Android app (Trusted Web Activity) owns this origin, so it opens without a URL bar.
 
 Do not delete or rename this repo — the Play Store app depends on it.
